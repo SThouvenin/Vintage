@@ -512,7 +512,7 @@ fieldset[disabled] .btn-default.active {
 ::selection {
     text-shadow: none;
     color: #fff;
-    background: #222;
+    background: #1d130a;
 }
 
 img::selection {
